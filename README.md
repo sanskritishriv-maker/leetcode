@@ -89,4 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sanskritishriv-maker/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/sanskritishriv-maker/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+## Math
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/sanskritishriv-maker/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
