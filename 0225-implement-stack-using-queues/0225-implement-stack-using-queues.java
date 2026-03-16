@@ -14,7 +14,7 @@ class MyStack {
     public int pop() {
         while(q1.size()!=1){
             q2.offer(q1.poll());
-        };
+        }
         int ans=q1.poll();
         var t=q1;
         q1=q2;
@@ -25,7 +25,7 @@ class MyStack {
     public int top() {  
         while(q1.size()!=1){
             q2.offer(q1.poll());
-        };
+        }
         int ans=q1.poll();
         q2.offer(ans);
         var t=q1;
