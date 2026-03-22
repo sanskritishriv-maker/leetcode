@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanskritishriv-maker/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sanskritishriv-maker/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sanskritishriv-maker/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sanskritishriv-maker/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/sanskritishriv-maker/leetcode/tree/master/0724-find-pivot-index) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0078-subsets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanskritishriv-maker/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sanskritishriv-maker/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanskritishriv-maker/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
