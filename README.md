@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sanskritishriv-maker/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanskritishriv-maker/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/0020-valid-parentheses) |
 ## Design
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/sanskritishriv-maker/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0090-subsets-ii) |
