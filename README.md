@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sanskritishriv-maker/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sanskritishriv-maker/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sanskritishriv-maker/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sanskritishriv-maker/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanskritishriv-maker/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
 ## Design
 |  |
 | ------- |
