@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0796-rotate-string) |
 ## Design
 |  |
 | ------- |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sanskritishriv-maker/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0090-subsets-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
