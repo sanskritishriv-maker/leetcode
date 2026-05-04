@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanskritishriv-maker/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanskritishriv-maker/leetcode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/sanskritishriv-maker/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/sanskritishriv-maker/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sanskritishriv-maker/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/sanskritishriv-maker/leetcode/tree/master/0053-maximum-subarray) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sanskritishriv-maker/leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sanskritishriv-maker/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sanskritishriv-maker/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sanskritishriv-maker/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0090-subsets-ii) |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sanskritishriv-maker/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
