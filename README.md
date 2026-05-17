@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sanskritishriv-maker/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sanskritishriv-maker/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sanskritishriv-maker/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sanskritishriv-maker/leetcode/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/sanskritishriv-maker/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sanskritishriv-maker/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
