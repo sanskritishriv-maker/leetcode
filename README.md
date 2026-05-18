@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sanskritishriv-maker/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sanskritishriv-maker/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sanskritishriv-maker/leetcode/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/sanskritishriv-maker/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanskritishriv-maker/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0090-subsets-ii) |
@@ -160,9 +161,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/sanskritishriv-maker/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sanskritishriv-maker/leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/sanskritishriv-maker/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sanskritishriv-maker/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Union-Find
 |  |
