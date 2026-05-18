@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sanskritishriv-maker/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanskritishriv-maker/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sanskritishriv-maker/leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/sanskritishriv-maker/leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/sanskritishriv-maker/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/sanskritishriv-maker/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sanskritishriv-maker/leetcode/tree/master/0046-permutations) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sanskritishriv-maker/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sanskritishriv-maker/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sanskritishriv-maker/leetcode/tree/master/0704-binary-search) |
