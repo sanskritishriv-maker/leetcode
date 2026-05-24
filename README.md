@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanskritishriv-maker/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sanskritishriv-maker/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sanskritishriv-maker/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sanskritishriv-maker/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sanskritishriv-maker/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/sanskritishriv-maker/leetcode/tree/master/0067-add-binary) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sanskritishriv-maker/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanskritishriv-maker/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
