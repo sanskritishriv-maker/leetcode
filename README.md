@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanskritishriv-maker/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0136-single-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanskritishriv-maker/leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanskritishriv-maker/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sanskritishriv-maker/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sanskritishriv-maker/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -135,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sanskritishriv-maker/leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/sanskritishriv-maker/leetcode/tree/master/0067-add-binary) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sanskritishriv-maker/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/sanskritishriv-maker/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/sanskritishriv-maker/leetcode/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0796-rotate-string) |
