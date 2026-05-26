@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanskritishriv-maker/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sanskritishriv-maker/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sanskritishriv-maker/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sanskritishriv-maker/leetcode/tree/master/0409-longest-palindrome) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/sanskritishriv-maker/leetcode/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/sanskritishriv-maker/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/sanskritishriv-maker/leetcode/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0796-rotate-string) |
