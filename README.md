@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/sanskritishriv-maker/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sanskritishriv-maker/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sanskritishriv-maker/leetcode/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/sanskritishriv-maker/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0525-contiguous-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sanskritishriv-maker/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanskritishriv-maker/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/sanskritishriv-maker/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanskritishriv-maker/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Stack
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sanskritishriv-maker/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/sanskritishriv-maker/leetcode/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/sanskritishriv-maker/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -206,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanskritishriv-maker/leetcode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sanskritishriv-maker/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sanskritishriv-maker/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
