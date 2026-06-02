@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sanskritishriv-maker/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sanskritishriv-maker/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0525-contiguous-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sanskritishriv-maker/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sanskritishriv-maker/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sanskritishriv-maker/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sanskritishriv-maker/leetcode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sanskritishriv-maker/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 ## String
