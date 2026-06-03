@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/sanskritishriv-maker/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sanskritishriv-maker/leetcode/tree/master/0504-base-7) |
+| [1360-number-of-days-between-two-dates](https://github.com/sanskritishriv-maker/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1903-largest-odd-number-in-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sanskritishriv-maker/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 ## String
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanskritishriv-maker/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1360-number-of-days-between-two-dates](https://github.com/sanskritishriv-maker/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sanskritishriv-maker/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1903-largest-odd-number-in-string) |
