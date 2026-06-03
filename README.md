@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sanskritishriv-maker/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sanskritishriv-maker/leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0525-contiguous-array) |
+| [1370-increasing-decreasing-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sanskritishriv-maker/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sanskritishriv-maker/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanskritishriv-maker/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sanskritishriv-maker/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskritishriv-maker/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1370-increasing-decreasing-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sanskritishriv-maker/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanskritishriv-maker/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanskritishriv-maker/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/sanskritishriv-maker/leetcode/tree/master/1360-number-of-days-between-two-dates) |
+| [1370-increasing-decreasing-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sanskritishriv-maker/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1903-largest-odd-number-in-string) |
