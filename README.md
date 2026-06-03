@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/sanskritishriv-maker/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/sanskritishriv-maker/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1417-reformat-the-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1417-reformat-the-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sanskritishriv-maker/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1903-largest-odd-number-in-string) |
