@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sanskritishriv-maker/leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/sanskritishriv-maker/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanskritishriv-maker/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanskritishriv-maker/leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/sanskritishriv-maker/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sanskritishriv-maker/leetcode/tree/master/0389-find-the-difference) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sanskritishriv-maker/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanskritishriv-maker/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/sanskritishriv-maker/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanskritishriv-maker/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sanskritishriv-maker/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskritishriv-maker/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanskritishriv-maker/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
@@ -370,5 +374,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sanskritishriv-maker/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanskritishriv-maker/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
