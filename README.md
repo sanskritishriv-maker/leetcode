@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanskritishriv-maker/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sanskritishriv-maker/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sanskritishriv-maker/leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/sanskritishriv-maker/leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sanskritishriv-maker/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sanskritishriv-maker/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanskritishriv-maker/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/sanskritishriv-maker/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/sanskritishriv-maker/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sanskritishriv-maker/leetcode/tree/master/0504-base-7) |
@@ -384,5 +386,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sanskritishriv-maker/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
