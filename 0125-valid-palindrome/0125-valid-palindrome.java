@@ -1,24 +1,23 @@
-class Solution {
-    public boolean isPalindrome(String s) {
-        int left=0;
-        int right=s.length()-1;
-        while(left<right){
-            while(left<right && !Character.isLetterOrDigit(s.charAt(left))){
-                left++;
-            }
-             while(left<right && !Character.isLetterOrDigit(s.charAt(right))){
-                right--;
+class Solution { 
+    int i;
+    int j;
+    public boolean isRecursive(int i,int j,String s){
+        if(i>=j) return true;
+        if(s.charAt(i)!=s.charAt(j)){
+            return false;
+        
              }
-             char l=Character.toLowerCase(s.charAt(left));
-             char r=Character.toLowerCase(s.charAt(right));
-             if(l!=r)
-             return false;
+        return isRecursive(i+1,j-1,s);
 
-             left++;
-             right--;
-        
-        }
-        return true;
-        
+
+    }
+    public boolean isPalindrome(String s) {
+       s=s.toLowerCase();
+       s=s.replaceAll("[^a-zA-Z0-9]", "");
+
+         i=0;
+         j=s.length()-1;
+       return isRecursive(i,j,s);
+       
     }
 }
