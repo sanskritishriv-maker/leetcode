@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sanskritishriv-maker/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/sanskritishriv-maker/leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sanskritishriv-maker/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sanskritishriv-maker/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sanskritishriv-maker/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanskritishriv-maker/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sanskritishriv-maker/leetcode/tree/master/0070-climbing-stairs) |
