@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sanskritishriv-maker/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskritishriv-maker/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanskritishriv-maker/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sanskritishriv-maker/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2057-smallest-index-with-equal-value](https://github.com/sanskritishriv-maker/leetcode/tree/master/2057-smallest-index-with-equal-value) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sanskritishriv-maker/leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/sanskritishriv-maker/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskritishriv-maker/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanskritishriv-maker/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sanskritishriv-maker/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-increasing-decreasing-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sanskritishriv-maker/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sanskritishriv-maker/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sanskritishriv-maker/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sanskritishriv-maker/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1360-number-of-days-between-two-dates](https://github.com/sanskritishriv-maker/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1903-largest-odd-number-in-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sanskritishriv-maker/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sanskritishriv-maker/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskritishriv-maker/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanskritishriv-maker/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Tree
 |  |
