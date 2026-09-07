@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanskritishriv-maker/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sanskritishriv-maker/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sanskritishriv-maker/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/sanskritishriv-maker/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sanskritishriv-maker/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sanskritishriv-maker/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sanskritishriv-maker/leetcode/tree/master/0205-isomorphic-strings) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sanskritishriv-maker/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/sanskritishriv-maker/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sanskritishriv-maker/leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/sanskritishriv-maker/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sanskritishriv-maker/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sanskritishriv-maker/leetcode/tree/master/0205-isomorphic-strings) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanskritishriv-maker/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sanskritishriv-maker/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanskritishriv-maker/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sanskritishriv-maker/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sanskritishriv-maker/leetcode/tree/master/0930-binary-subarrays-with-sum) |
