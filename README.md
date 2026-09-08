@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sanskritishriv-maker/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/sanskritishriv-maker/leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/sanskritishriv-maker/leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sanskritishriv-maker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/sanskritishriv-maker/leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanskritishriv-maker/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanskritishriv-maker/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sanskritishriv-maker/leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sanskritishriv-maker/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/sanskritishriv-maker/leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanskritishriv-maker/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sanskritishriv-maker/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanskritishriv-maker/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/sanskritishriv-maker/leetcode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/sanskritishriv-maker/leetcode/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanskritishriv-maker/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/sanskritishriv-maker/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
@@ -426,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanskritishriv-maker/leetcode/tree/master/0022-generate-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sanskritishriv-maker/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
